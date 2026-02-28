@@ -3,9 +3,10 @@
 <img width="300" id="img" alt="image" src="senai.png" />
 <h2>Estudante de Desenvolvimento De Sistemas no SENAI</h2>
   <br>
-  <p>Linguagens:</p>
+
 
 </div>
+<h3>Linguagens:</h3>
 <ul>
   <li>☕ - JAVA</li>
   <li>🐍 - PYTHON</li>
