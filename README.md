@@ -10,6 +10,6 @@ Guilherme Gaspar
     
   }
 </style>
-<img width="2000" id="img" height="1500" alt="image" src="https://github.com/user-attachments/assets/a3278efa-e00e-4e84-8df1-653d9b78f311" />
+<img width="2000" id="img" height="1500" alt="image" src="https://assemperj.org.br/wp-content/uploads/2023/03/APRESENTACAO-SESI_Pagina_17.jpg" />
 ** Estudante de Desenvolvimento De Sistemas no SENAI**
 
