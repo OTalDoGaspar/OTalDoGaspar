@@ -1,16 +1,15 @@
-## Hi there 👋
+Guilherme Gaspar
+<style>
+  body{
+    display: flex:
+    justify-content: center;
+    align-items: center;
+  }
+  #img{
+    border-radius: 10px
+    
+  }
+</style>
+<img width="2000" id="img" height="1500" alt="image" src="https://github.com/user-attachments/assets/a3278efa-e00e-4e84-8df1-653d9b78f311" />
+** Estudante de Desenvolvimento De Sistemas no SENAI**
 
-<!--
-**OTalDoGaspar/OTalDoGaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
