@@ -4,9 +4,9 @@
 <h2>Estudante de Desenvolvimento De Sistemas no SENAI</h2>
   <br>
   <p>Linguagens:</p>
-<il>
-  ☕ - JAVA
-  🐍 - PYTHON
-  💻 - HTML, JS, CSS
-</il>
+<ol>
+  <li>☕ - JAVA</li>
+  <li>🐍 - PYTHON</li>
+  <li>💻 - HTML, JS, CSS</li>
+</ol>
 </div>
